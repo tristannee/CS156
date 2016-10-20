@@ -99,12 +99,3 @@ end
 E_in_average = E_in/simulations
 E_out_average = E_out/simulations
 iterations_average = iterations_sum/simulations
-
-
-%{
-x3 = [-1:.00001:1];
-y2 = m2*x3 + b2;
-
-plot(x, f), xlabel('x'), ylabel('y'); hold on;
-plot(x3, y2) 
-%}
