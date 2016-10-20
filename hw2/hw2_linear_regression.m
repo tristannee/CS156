@@ -1,4 +1,4 @@
-% Tristan Née
+% Tristan NÃ©e
 % CS 156 Problem Set 2
 % Questions 5-7
 
