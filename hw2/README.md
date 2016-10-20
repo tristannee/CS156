@@ -1,5 +1,5 @@
-# CS156
-This code comes from an assignment in the CS156 class at Caltech.
+# CS156/hw2
+This code comes from the second homework assignment in the CS156 class at Caltech.
 
 - hw2_linear_regression.m
 
