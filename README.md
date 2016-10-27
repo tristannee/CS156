@@ -1,9 +1,8 @@
-# CS 156
+# Machine Learning
 
-Learning Systems
+Each folder contains a certain project. Here are their descriptions:
 
-Course Description:
-Introduction to the theory, algorithms, and applications of automated learning. How much information is needed to
-learn a task, how much computation is involved, and how it can be accomplished. Special emphasis is given to unifying
-the different approaches to the subject coming from statistics, function approximation, optimization, pattern recognition,
-and neural networks.
+
+Transformation-Regression
+
+Contains MATLAB code experimenting with linear regression and nonlinear transformations.
