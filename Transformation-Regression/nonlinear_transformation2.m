@@ -1,6 +1,4 @@
 % Tristan Née
-% CS 156 Problem Set 2
-% Questions 9-10
 
 N = 1000; % Amount of training points
 N2 = 1000; % New, out of sample points
