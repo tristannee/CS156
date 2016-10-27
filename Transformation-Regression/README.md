@@ -1,9 +1,9 @@
-# CS156/hw2
+# Transformation-Regression
 The code in this folder comes from the second homework assignment in the CS156 class at Caltech.
 
 - hw2_linear_regression.m
 
-In this MATLAB code, we worked with Linear Regression for classification of points.
+In this MATLAB code, we use Linear Regression for classification of points.
 A target function and data set were created, with dimension = 2 and the data set
 points were restricted to [-1, 1] x [-1, 1] (cartesian coordinates). Then,
 a random line was chosen and points on one side of the line mapped to +1 while the
